@@ -57,7 +57,7 @@ body{
 .main{
     display: flex;
     overflow: hidden;
-    height:calc(100vh-70px);
+    height:calc(100vh - 70px);
 }
 .sidebar{
     height: 100%;
